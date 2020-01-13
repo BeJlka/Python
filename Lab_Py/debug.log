@@ -1,0 +1,13 @@
+[1219/100607.865:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[1219/100607.867:ERROR:exception_snapshot_win.cc(98)] thread ID 15560 not found in process
+[1219/100607.868:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)
+[1219/105814.810:ERROR:process_info.cc(329)] VirtualQueryEx: Отказано в доступе. (0x5)
+[1219/105814.811:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1219/105814.811:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[1219/105814.812:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)
+[0113/155632.495:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0113/155632.496:ERROR:exception_snapshot_win.cc(98)] thread ID 15680 not found in process
+[0113/155632.496:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)
+[0113/155930.752:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0113/155930.753:ERROR:exception_snapshot_win.cc(98)] thread ID 10464 not found in process
+[0113/155930.753:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)
